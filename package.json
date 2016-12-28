@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dygraphs": "file:///Users/danvk/github/dygraphs/dygraphs-2.0.0-rc2.tgz"
+    "dygraphs": "^2.0.0-rc2"
   },
   "devDependencies": {
     "babel-core": "^6.21.0",

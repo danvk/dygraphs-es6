@@ -44,3 +44,10 @@ $ ls -lh lib
   371K main.rollup.js
   666K main.rollup.js.map
 ```
+
+## Production code
+
+The version of dygraphs that gets built this way is a development version. It includes
+checks which help you catch errors but which will slow you down in production.
+
+To get the production version, make sure you set `NODE_ENV=production` and minify your code.
