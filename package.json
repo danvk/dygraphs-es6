@@ -1,0 +1,24 @@
+{
+  "name": "dygraphs-es6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dygraphs": "file:///Users/danvk/github/dygraphs/dygraphs-2.0.0-rc2.tgz"
+  },
+  "devDependencies": {
+    "babel-core": "^6.21.0",
+    "babel-loader": "^6.2.10",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-es2016": "^6.16.0",
+    "babel-register": "^6.18.0",
+    "rollup-plugin-node-resolve": "^2.0.0",
+    "uglify-js": "^2.7.5",
+    "webpack": "^1.14.0"
+  }
+}
