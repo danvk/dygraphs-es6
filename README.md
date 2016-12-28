@@ -34,3 +34,13 @@ const g = new Dygraph('graph',
   fillGraph: true
 });
 ```
+
+Running rollup or webpack generates a bundle which includes the full dygraphs source:
+
+```
+$ ls -lh lib
+  411K main.js
+  477K main.js.map
+  371K main.rollup.js
+  666K main.rollup.js.map
+```
