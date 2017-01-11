@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dygraphs": "^2.0.0-rc3"
+    "dygraphs": "^2.0.0"
   },
   "devDependencies": {
     "babel-core": "^6.21.0",
